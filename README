@@ -1,0 +1,6 @@
+This collection of files creates a syntax recognition system for command files
+for the TPMS Terminal Simulator package, running on the ICL/Fujitsu VME
+operating system. 
+
+*** NOTE: These files are sill under development ***
+
